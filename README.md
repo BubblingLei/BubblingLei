@@ -36,7 +36,6 @@
 |---|---|---|
 | [**DTSS-based-Transformer**](https://github.com/BubblingLei/DTSS-based-Transformer) | 一作 SCI 论文官方实现：Transformer 深度学习信号检测 | PyTorch · Transformer |
 | [**Knight_AI**](https://github.com/BubblingLei/Knight_AI) | 医疗知识图谱问答系统：BERT 语义意图识别 + 知识图谱 + QA 引擎 | Python · BERT · KG |
-| [**QASystemOnMedicalKG**](https://github.com/BubblingLei/QASystemOnMedicalKG) | 医药知识图谱构建 + 自动问答（以疾病为中心的知识图谱） | Python · KG · QA |
 | [**DecoupledExam**](https://github.com/BubblingLei/DecoupledExam) | AI 在线考试系统：LLM 自动阅卷 + 人脸识别防作弊 | Spring MVC · LLM |
 | [**DawnWeb**](https://github.com/BubblingLei/DawnWeb) | 外贸宣传站：响应式前端 + 中英 i18n + 后端 API | Nuxt 4 · Spring Boot |
 
