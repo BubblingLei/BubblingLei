@@ -34,7 +34,7 @@
 
 | 项目 | 说明 | 技术栈 |
 |---|---|---|
-| [**rs-change-review-agent**](https://github.com/BubblingLei/rs-change-review-agent-exp) | 遥感智能体：ReAct 多工具 Agent，自主调度 6 个变化检测算法（含反幻觉兜底） | Python · lagent · DeepSeek · PyTorch |
+| [**RSChangeAgent**](https://github.com/BubblingLei/RSChangeAgent) | 遥感智能体：ReAct 多工具 Agent，自主调度 6 个变化检测算法（含反幻觉兜底） | Python · lagent · DeepSeek · PyTorch |
 | [**DTSS-based-Transformer**](https://github.com/BubblingLei/DTSS-based-Transformer) | 一作 SCI 论文官方实现：Transformer 深度学习信号检测 | PyTorch · Transformer |
 | [**Knight_AI**](https://github.com/BubblingLei/Knight_AI) | 医疗知识图谱问答系统：BERT 语义意图识别 + 知识图谱 + QA 引擎 | Python · BERT · KG |
 | [**DecoupledExam**](https://github.com/BubblingLei/DecoupledExam) | AI 在线考试系统：LLM 自动阅卷 + 人脸识别防作弊 | Spring MVC · LLM |
