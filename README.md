@@ -17,9 +17,9 @@
 
 ## 🎯 关于我 · About Me
 
-软件工程大四本科生，已保研中科院杭高院人工智能。专注 **大模型应用与 Agent 开发**：熟悉 RAG、LangChain / LangGraph、MCP、Function Calling、ReAct、知识图谱、BERT、Qwen，既有**研究能力（第一作者 SCI 二区论文）**，也有**工程落地能力（LLM 项目 + 后端全栈）**。正在寻找第一份实习（大模型应用 / Agent，杭州，每周可到岗 5 天、可实习 6 个月以上）。
+软件工程大四本科生，已保研中科院杭高院人工智能。专注 **大模型应用与 Agent 开发**：熟悉 RAG、LangChain / LangGraph、MCP、Function Calling、ReAct、知识图谱、BERT，既有**研究能力（第一作者 SCI 二区论文）**，也有**工程落地能力（LLM 项目 + 后端全栈）**。正在寻找第一份实习（大模型应用 / Agent，杭州，每周可到岗 5 天、可实习 6 个月以上）。
 
-*Software engineering senior focused on LLM applications & Agent development. Skilled in RAG, LangChain/LangGraph, MCP, function calling, ReAct, knowledge graphs, BERT and Qwen — spanning research (first-author SCI paper) to production engineering (LLM + backend). Open to my first internship in Hangzhou.*
+*Software engineering senior focused on LLM applications & Agent development. Skilled in RAG, LangChain/LangGraph, MCP, function calling, ReAct, knowledge graphs, BERT — spanning research (first-author SCI paper) to production engineering (LLM + backend). Open to my first internship in Hangzhou.*
 
 ## 🔬 科研 · Research
 
@@ -49,7 +49,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![lagent](https://img.shields.io/badge/lagent-FF6F00?style=flat-square)
 ![ReAct](https://img.shields.io/badge/ReAct-4B32C3?style=flat-square)
-![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square)
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square)
 
 **后端 · Backend**
